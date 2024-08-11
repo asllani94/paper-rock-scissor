@@ -8,8 +8,8 @@ This is a simple Rock-Paper-Scissors game implemented in Java. The game allows a
 
 To run this project, you'll need:
 
-- Java Development Kit (JDK) 8 or higher installed.
-- A console or terminal to run the application.
+- Java Development Kit (JDK) 21 installed.
+- A console or terminal to compile and run the application.
 
 ### Project Structure
 
